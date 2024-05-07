@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>audio.gif</file>
+    <file>output-onlinegiftools.gif</file>
+    <file>talk12.gif</file>
+    <file>ascd.gif</file>
+    <file>hacker.gif</file>
+    <file>123.gif</file>
+    <file>wp2757874.gif</file>
+  </qresource>
+</RCC>
